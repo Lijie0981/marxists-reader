@@ -1,0 +1,30 @@
+{
+  "name": "marxists-reader",
+  "version": "1.0.0",
+  "description": "A chrome plugin for reading Marxist literature.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test",
+    "build": "tsc -b",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lijie0981/marxists-reader.git"
+  },
+  "keywords": [
+    "Marxist",
+    "Chrome",
+    "plugin"
+  ],
+  "author": "jleemt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lijie0981/marxists-reader/issues"
+  },
+  "homepage": "https://github.com/Lijie0981/marxists-reader#readme",
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "typescript": "^3.9.7"
+  }
+}
